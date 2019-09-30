@@ -1,0 +1,40 @@
+body {
+    height: 100%;
+    background-color: rgb(244, 244, 244);
+    flex: 1 1 0%;
+    padding: 2.5rem;
+    font-family: Sans-serif;
+}
+h1 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
+#no-bullets {
+    list-style-type:none;
+}
+h2 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
+h3 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
+h4 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
+h5 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
+h6 {
+    background-color: rgb(49, 62, 72);
+    color: white;
+    font-size: 30px;
+}
