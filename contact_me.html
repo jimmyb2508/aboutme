@@ -6,10 +6,10 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
         <link rel="stylesheet" type="text/css" href="style.css">
-        <title>JB</title>
+        <title>Contact JB</title>
     </head>
-    <body class="manchester">
         <header>
+        <body>
             <nav class="flex-nav">
                 <ul>
                     <li><img src=Pictures/jb_logo.jpg alt="My Logo"></li>
@@ -36,9 +36,34 @@
                     </li>
                 </ul>
             </nav>
-        </header>
-        <h1 class="textcenter">D E V E L O P M E N T</h1>
-<footer>
-</footer>
-</body>
-</html>
+            </header>
+            <main class="contactmain">
+            <form action="/my-contact-page" method="post">
+              <div>
+                <label for="name">name</label>
+                <input type="text" id="name" name="contact_name">
+              </div>
+              <div>
+                  <label for="email">email</label>
+                  <input type="email" id="email" name="contact_email">
+              </div>
+              <div>
+                  <label for="message">message</label>
+                  <textarea id="message" name="message"></textarea>
+              </div>
+              <div class="button">
+                <button id="submit" type="submit" role="button">submit</button>
+              </div>
+              <div class="button">
+                <button type="reset" role="button">Clear</button>
+              </div>
+            </form>
+            <section class="me">
+              <img src="Pictures/Me.jpg" alt="mb">
+            </section>
+            </main>
+          </body>
+          <script src="/Users/jamesbarrington/Github/Projects/my-portfolio/script.js"></script>
+    </html>
+
+                

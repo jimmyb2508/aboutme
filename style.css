@@ -98,95 +98,38 @@ button {
 }
 
 /* about me page */
-
-main {
-  margin-top:130px;
-  margin-left: 40px;
-  margin-right: 0%;
-}
-
-.container {
+.aboutme {
+  margin-top:200px;
+  position: absolute;
+  margin-left:70%;
+  margin-right:10%;
   display: flex;
-  border: 10px solid black;
-  flex-wrap: wrap;
-  width: 60%;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row-reverse;
+  color: gray;
+  font-family: sans-serif
 }
-
-.pic1 {
-  width: 21%;
-}
-
-.pic2 {
-  width: 21%;
-}
-
-.pic3 {
-  width: 21%;
-}
-
-.pic4 {
-  width: 21%
-}
-
-.pic5 {
-  width: 84%
-}
-
-.pic6 {
-  width: 25%
-}
-
-.pic7 {
-  width: 59%;
-}
-
- .aboutme {
-   margin-top
-    display: flex;
-    font-family: sans-serif;
-    justify-content: center;
-    color: gray;
-    margin-top: 250px;
-    margin-left: 800px;
-    margin-right: 80px;
-} 
 
 .aboutjb {
-    margin-top: 100px;
-    display: flex;
-    font-family: sans-serif;
-    justify-content: center;
-    color: gray;
-    margin-left: 800px;
-    margin-right: 80px;
-    
-} 
+  margin-top:250px;
+  position:absolute; 
+  margin-left:70%;
+  margin-right: 10%;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  flex-direction: row-reverse;
+  color: gray;
+  font-family: sans-serif
+}
 
-section {
-    color: gray;
-    background-size: contain;
-} 
-
-aboutme { 
-    display: flex;
-    justify-content: center;
-    font-family: sans-serif;
-    font-size: 150px;
-    color: gray;
-    margin-top: 80px;
-    margin-bottom: 0px;
-  }
-
-  .about {
-    display: flex;
-    justify-content: center;
-    font-family: sans-serif;
-    font-style: italic;
-    font-size: 20px;
-    color: rgb(189, 186, 186);
-    padding: 10px; 
-  } 
-
-
-  
-  
+.collage {
+  margin-top:130px;
+  margin-left: 20px;
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction:
+}
