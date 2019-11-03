@@ -131,5 +131,81 @@ button {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  flex-direction:
+  flex-direction: row
+}
+
+/* My CV Page */
+
+.skills {
+  border-radius: 15px;
+  margin-top: 90px;
+  margin-bottom: 2px;
+  width: 330px;
+  height: 30px;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: gray;
+  padding: 18px;
+}
+
+.intro {
+  border: 5px solid #ffb732;
+  background-color: #ffb732;
+  border-radius: 15px;
+  margin-top: 0px;
+  width: 620px;
+  height: 90px;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: white;
+  padding: 10px;
+}
+
+.html_pic {
+  width: 70px;
+}
+
+.css_pic {
+  width: 50px;
+}
+
+.js_pic {
+  width: 70px;
+}
+
+.nodejs_pic {
+  width: 110px;
+}
+
+.react_pic {
+  width: 100px;
+}
+
+.mongodb_pic {
+  width: 150px;
+}
+
+.experience {
+  font-family: sans-serif;
+  color: gray;
+  font-size: 30px;
+  padding: 18px;
+  margin-bottom: 0px;
+}
+
+.mc_pic {
+  width: 110px;
+}
+
+.code_experience {
+  border: 5px solid #87CEFA;
+  background-color: #87CEFA;
+  border-radius: 15px;
+  margin-top: 0px;
+  width: 600px;
+  height: 540px;
+  font-family: sans-serif;
+  font-size: 22px;
+  color: white;
+  padding: 20px;
 }
