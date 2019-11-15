@@ -1,5 +1,7 @@
 # aboutme
-About Me
+
+My Portfolio
+
 This is an about me page that I have created as part of my Manchester Codes coursework. 
 
 I update the content frequently to reflect my current state in the learning process. Therefore, I would request you check this frequently
@@ -8,4 +10,13 @@ will change in quantity and quality as I progress on my development journey. As 
 
 "You cannot step in the same river twice". - Heraclitus
 
-To view visit https://jimmyb2508.github.io/aboutme/index.html
+Built On:
+- HTML
+- CSS
+- JavaScript
+
+To view visit https://jimmyb2508.github.io/my-portfoilio/index.html
+
+To Be Completed:
+- Viewport UI
+- Mobile / Tablet UI
