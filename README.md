@@ -1,6 +1,6 @@
 # my-portfolio
 
-This is an about me page that I have created as part of my Manchester Codes coursework. 
+This is a portfolio site that I have created as part of my Manchester Codes coursework. 
 
 I update the content frequently to reflect my current state in the learning process. Therefore, I would request you check this frequently
 for changes. The same can be said for the Portfolio page. These projects
